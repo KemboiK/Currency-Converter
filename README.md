@@ -27,6 +27,7 @@ This beginner-friendly project helps you understand Java GUI development, event 
 - Clone the repository:
 
 git clone https://github.com/KemboiK/Currency-Converter.git
+
 cd Currency-Converter
 - Compile the program:
 javac CurrencyConverter.java
